@@ -8,4 +8,4 @@ el enfoque de Desarrollo Guiado por Pruebas (TDD) junto con GitFlow para la gest
 ## Instalación
 1. Clona este repositorio:
  ```bash
- git clone <URL_del_repositorio>```
+ git clone <[URL_del_repositorio](https://github.com/TatianaVega3028/GestorTareas.git)>```
